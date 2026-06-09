@@ -9,7 +9,7 @@
 <!-- Выбор темы ↑↑: https://github.com/anuraghazra/github-readme-stats/blob/master/themes/README.md --> 
 <!-- Настройка отображения ↑↑: https://github.com/anuraghazra/github-readme-stats/ --> 
 
-![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=wxth1sloveu-coder&theme=github-light)
+![GitHub readme activity.graph.vercel.app/graph?theme=high-contrast&username=wxth1sloveu-coder](https://github.com/Ashutosh00710/github-readme-activity-graph/blob/main/THEMES.md)
 
 <!-- Выбор темы ↑↑: https://github.com/Ashutosh00710/github-readme-activity-graph/blob/main/THEMES.md --> 
 
