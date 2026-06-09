@@ -3,8 +3,8 @@
 
 ## 📊 Статистика
 
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=wxth1sloveu-coder&show_icons=true&hide=stars,prs,issues,contribs&theme=dark)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=wxth1sloveu-coder&layout=compact&theme=dark)
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=wxth1sloveu-coder&show_icons=true&hide=stars,prs,issues,contribs&title_color=F9A8D4&text_color=9CA3AF&icon_color=F472B6&bg_color=FFF5F8)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=wxth1sloveu-coder&layout=compact&title_color=F9A8D4&text_color=9CA3AF&bg_color=FFF5F8)
 
 <!-- Выбор темы ↑↑: https://github.com/anuraghazra/github-readme-stats/blob/master/themes/README.md --> 
 <!-- Настройка отображения ↑↑: https://github.com/anuraghazra/github-readme-stats/ --> 
