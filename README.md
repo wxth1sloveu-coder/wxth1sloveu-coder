@@ -77,13 +77,13 @@
 <br>
 
 ## 🎒 Образование
-[<img src="/certificate-with-number_ru.png" width="280px" hspace="10px" alt="Диплом»">](https://raw.githubusercontent.com/wxth1sloveu-coder/wxth1sloveu-coder/refs/heads/main/Certificate.png)
+[<img src="/certificate-with-number_ru.png" width="280px" hspace="10px" alt="Certificate»">](https://raw.githubusercontent.com/wxth1sloveu-coder/wxth1sloveu-coder/refs/heads/main/Certificate.png)
 
 <br>
 <br>
 
 ## 🤝 Контакт
-[![Email](https://img.shields.io/badge/Email-3b5998?style=flat-square&logo=Mail.Ru&logoColor=white)](mailto:german@dolnikov.ru)
-[![Telegram Badge](https://img.shields.io/badge/-Telegram-0088cc?style=flat-square&logo=Telegram&logoColor=white)](https://t.me/dolnikov)
+[![Email](https://img.shields.io/badge/Email-3b5998?style=flat-square&logo=Mail.Ru&logoColor=white)](mailto:yuniqawx@yandex.ru)
+[![Telegram Badge](https://img.shields.io/badge/-Telegram-0088cc?style=flat-square&logo=Telegram&logoColor=white)](https://t.me/wxth1s)
 
 <!-- Документация по виджету контактов ↑↑ https://shields.io/badges --> 
