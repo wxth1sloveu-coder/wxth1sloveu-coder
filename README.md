@@ -1,6 +1,5 @@
 $${\color{#F9A8D4}\text{Алина}} \space {\color{#F9A8D4}\text{💕}} \space {\color{#F9A8D4}\text{Junior QA}}$$
-
-$$ {\color{white}\text{Ищу}} \space {\color{white}\text{баги,}} \space {\color{white}\text{чтобы}} \space {\color{white}\text{вы}} \space {\color{white}\text{их}} \space {\color{white}\text{не}} \space {\color{white}\text{нашли}}$$
+Ищу баги, чтобы вы их не нашли
 
 ## 📈Статистика
 
