@@ -2,7 +2,7 @@ $${\color{#F9A8D4}\text{Алина}} \space {\color{#F9A8D4}\text{💕}} \space 
 
 $$ {\color{white}\text{Ищу}} \space {\color{white}\text{баги,}} \space {\color{white}\text{чтобы}} \space {\color{white}\text{вы}} \space {\color{white}\text{их}} \space {\color{white}\text{не}} \space {\color{white}\text{нашли}}$$
 
-## 📊 Статистика
+## 📈Статистика
 
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=wxth1sloveu-coder&show_icons=true&hide=stars,prs,issues,contribs&title_color=F9A8D4&text_color=FFFFFF&icon_color=F9A8D4&bg_color=000000)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=wxth1sloveu-coder&layout=compact&title_color=F9A8D4&text_color=FFFFFF&bg_color=000000)
@@ -76,13 +76,13 @@ $$ {\color{white}\text{Ищу}} \space {\color{white}\text{баги,}} \space {\
 
 <br>
 
-## 🎒 Образование
+## 🎓 Образование
 [<img src="https://raw.githubusercontent.com/wxth1sloveu-coder/wxth1sloveu-coder/refs/heads/main/Certificate.png" width="280px" hspace="10px" alt="Certificate">](https://raw.githubusercontent.com/wxth1sloveu-coder/wxth1sloveu-coder/refs/heads/main/Certificate.png)
 
 <br>
 <br>
 
-## 🤝 Контакт
+## 💌 Контакт
 [![Email](https://img.shields.io/badge/Email-3b5998?style=flat-square&logo=Mail.Ru&logoColor=white)](mailto:yuniqawx@yandex.ru)
 [![Telegram Badge](https://img.shields.io/badge/-Telegram-0088cc?style=flat-square&logo=Telegram&logoColor=white)](https://t.me/wxth1s)
 
