@@ -77,8 +77,7 @@
 <br>
 
 ## 🎒 Образование
-[<img src="/certificate-with-number_ru.png" width="280px" hspace="10px" alt="Диплом»">]((https://raw.githubusercontent.com/wxth1sloveu-coder/wxth1sloveu-coder/refs/heads/main/Certificate.png))
-[<img src="/Letter12.png" width="280px" hspace="10px" alt="Рекомендательное письмо»">](https://raw.githubusercontent.com/German-D/German-D/main/Letter12.png)
+[<img src="/certificate-with-number_ru.png" width="280px" hspace="10px" alt="Диплом»">](https://raw.githubusercontent.com/wxth1sloveu-coder/wxth1sloveu-coder/refs/heads/main/Certificate.png)
 
 <br>
 <br>
