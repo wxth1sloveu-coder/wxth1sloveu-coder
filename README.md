@@ -9,7 +9,7 @@
 <!-- Выбор темы ↑↑: https://github.com/anuraghazra/github-readme-stats/blob/master/themes/README.md --> 
 <!-- Настройка отображения ↑↑: https://github.com/anuraghazra/github-readme-stats/ --> 
 
-![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=wxth1sloveu-coder&bg_color=00000000&title_color=F9A8D4&color=F9A8D4&line=FFFFFF&point=FFFFFF&hide_border=true)
+![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=wxth1sloveu-coder&bg_color=00000000&title_color=EC4899&color=EC4899&line=EC4899&point=EC4899&hide_border=true)
 
 <!-- Выбор темы ↑↑: https://github.com/Ashutosh00710/github-readme-activity-graph/blob/main/THEMES.md --> 
 
